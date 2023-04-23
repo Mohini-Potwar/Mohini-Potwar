@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **mohinipotwar04@gmail.com**
 
+<div style="border-radius: 50%;"><img align="right" alt="coding1" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohinipotwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohinipotwar" height="30" width="40" /></a>
