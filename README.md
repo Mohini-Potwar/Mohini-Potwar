@@ -1,29 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mohini Potwar</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate frontend Developer from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mohini-potwar&label=Profile%20views&color=0e75b6&style=flat" alt="mohini-potwar" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohini-potwar&label=Profile%20views&color=0e75b6&style=flat" alt="mohini-potwar" /> </p>
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-
-- 🌱 Currently an **Intern**, gaining practical experience  
-- 💡 Strong knowledge in **C, C++, Java, HTML, CSS, JavaScript, Python, PHP, React, React Native, Node.js, Express, MongoDB, MySQL, PostgreSQL, Oracle, Linux, VS Code, Android Development**  
+- 🎓 Graduated in **Computer Science & Engineering**  
+- 💻 Currently working as an **Intern**  
+- ⚡ Skilled in **React Native**, **MERN Stack**, and more  
+- 🌱 Exploring advanced concepts in **Full Stack Development & App Development**  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohini-Potwar)  
 - 📫 Reach me at **mohinipotwar04@gmail.com**
 
-  </div>
-  <div>
-    <img alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-  </div>
+<div style="border-radius: 50%;"><img align="right" alt="coding1" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mohinipotwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohinipotwar" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/mohinipotwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohinipotwar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,11 +39,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohini-potwar&show_icons=true&locale=en" alt="mohini-potwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohini-potwar&" alt="mohini-potwar" /></p>
 
-<div>
-  <img align="center" alt="coding" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
-</div>
+<div><img align="center" alt="coding1" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"></div>
