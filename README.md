@@ -5,25 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=mohini-potwar&label=Profile%20views&color=0e75b6&style=flat" alt="mohini-potwar" /> 
 </p>
 
-<table>
-  <tr>
-    <td>
-
+<!-- Right-aligned GIF using float trick -->
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
 - 🎓 Graduated in **Computer Science & Engineering**  
 - 💻 Currently working as an **Intern**  
 - ⚡ Skilled in **React Native**, **MERN Stack**, and more  
 - 🌱 Exploring advanced concepts in **Full Stack Development & App Development**  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohini-Potwar)  
 - 📫 Reach me at **mohinipotwar04@gmail.com**
-
-    </td>
-    <td>
-
-<img alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
-    </td>
-  </tr>
-</table>
+  </div>
+  <div>
+    <img alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+  </div>
+</div>
 
 ## 🌐 Connect with me
 <p align="left">
@@ -49,7 +44,6 @@
   <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="50" height="50"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
