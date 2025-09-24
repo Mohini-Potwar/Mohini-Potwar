@@ -16,7 +16,7 @@
   <img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 </div>
 
----
+
 
 ## 🌐 Connect with me
 <p align="left">
