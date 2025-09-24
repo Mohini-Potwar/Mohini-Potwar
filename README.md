@@ -1,9 +1,13 @@
+<h1 align="center">Hi 👋, I'm Mohini Potwar</h1>
+<h3 align="center">A passionate Developer from India</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mohini-potwar&label=Profile%20views&color=0e75b6&style=flat" alt="mohini-potwar" /> 
+</p>
+
 <table>
   <tr>
     <td>
-
-Hi 👋, I'm **Mohini Potwar**  
-A passionate Developer from India
 
 - 🎓 Graduated in **Computer Science & Engineering**  
 - 💻 Currently working as an **Intern**  
@@ -20,7 +24,6 @@ A passionate Developer from India
     </td>
   </tr>
 </table>
-
 
 ## 🌐 Connect with me
 <p align="left">
@@ -57,7 +60,3 @@ A passionate Developer from India
 ## 📊 GitHub Stats  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohini-potwar&show_icons=true&locale=en" alt="mohini-potwar" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohini-potwar&" alt="mohini-potwar" /></p>
-
-<div align="center">
-  <img alt="coding" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
-</div>
