@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohini-potwar&label=Profile%20views&color=0e75b6&style=flat" alt="mohini-potwar" /> </p>
 
-- 🎓 B.Tech in Computer Science & Engineering, Priyadarshini J.L. College of Engineering
+- 🎓 B.Tech in Computer Science & Engineering
 - 💼 Software Engineer with experience across **Java, Spring Boot, React Native, Node.js & REST APIs**
 - ⚡ Shipped live full-stack and mobile apps — AI-integrated features, real-time REST APIs, and MongoDB-backed systems
 - 📝 Published a peer-reviewed research paper on blockchain security (IJRAR, Dec 2024)
