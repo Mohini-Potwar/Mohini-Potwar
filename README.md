@@ -6,7 +6,7 @@
 - 🎓 B.Tech in Computer Science & Engineering
 - 💼 Software Engineer with experience across **Java, Spring Boot, React Native, Node.js & REST APIs**
 - ⚡ Shipped live full-stack and mobile apps — AI-integrated features, real-time REST APIs, and MongoDB-backed systems
-- 📝 Published a peer-reviewed research paper on blockchain security (IJRAR, Dec 2024)
+- 📝 Published a peer-reviewed research paper on blockchain security (IJRAR, Dec 2024).
 - 🌱 Currently exploring advanced Full Stack & App Development concepts,  open to new Software Engineer opportunities.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mohini-Potwar)
 - 📫 Reach me at **mohinipotwar04@gmail.com**
